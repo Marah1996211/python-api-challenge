@@ -7,6 +7,11 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+../../(50) Top job picks for you _ LinkedIn.mhtml
+../../.virtual_documents/
+../../05-Data-Visualization/
+../../06-Python-APIs/
+api_keys.py
 .ipynb_checkpoints/
 .Python
 build/
